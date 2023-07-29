@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sorted_by">Sorting by: </string>
+
+    <string name="radio_1">Team &amp; league ranking</string>
+    <string name="radio_2">Most goals scored by a player</string>
+    <string name="radio_3">Average goal per match in a league</string>
+    <string name="radio_4">None</string>
+
+</resources>
